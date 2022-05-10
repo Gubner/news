@@ -22,7 +22,7 @@ Citizen.CreateThread(function ()
 end
 ]]--
 ```
-#standalone configuration
+# standalone configuration
 Edit commenting in client.lua
 ```lua
 --[[Using qb-target
